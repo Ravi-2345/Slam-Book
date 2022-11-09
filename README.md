@@ -119,8 +119,8 @@
            MONGO_URL= mongo atlas url here
          ```
        <br>
-     -for Client 
-      put your Mongo Atlas URL as 
+     -for Client <br>
+      add this to .env file 
          ```
            REACT_APP_PUBLIC_FOLDER = http://localhost:8800/images/
          ```
