@@ -118,6 +118,7 @@
          ```
            MONGO_URL= mongo atlas url here
          ```
+       <br>
      -for Client 
       put your Mongo Atlas URL as 
          ```
@@ -127,7 +128,7 @@
      
        - Add this to `.env` file
   - Please Note, the ATLAS_URI is not the database link of MongoDB Atlas, its just the variable name. The URL is for local use only
-  - <br>
+  <br>
     
 - That's all, now just Sign Up to Slam-Book and be friends forever.
   <br>
