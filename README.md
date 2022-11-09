@@ -118,14 +118,17 @@
          ```
            MONGO_URL= mongo atlas url here
          ```
+     -for Client 
+      put your Mongo Atlas URL as 
+         ```
+           REACT_APP_PUBLIC_FOLDER = http://localhost:8800/images/
+         ```
+         
+     
        - Add this to `.env` file
   - Please Note, the ATLAS_URI is not the database link of MongoDB Atlas, its just the variable name. The URL is for local use only
   - <br>
-    for Client
-     ```
-            REACT_APP_PUBLIC_FOLDER = http://localhost:8800/images/
-         ```
-
+    
 - That's all, now just Sign Up to Slam-Book and be friends forever.
   <br>
   <br>
