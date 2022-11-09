@@ -122,9 +122,9 @@
   - Please Note, the ATLAS_URI is not the database link of MongoDB Atlas, its just the variable name. The URL is for local use only
   - <br>
     -for Client
-      ```
-       REACT_APP_PUBLIC_FOLDER = http://localhost:8800/images/
-      ```
+     ```
+            REACT_APP_PUBLIC_FOLDER = http://localhost:8800/images/
+         ```
 
 - That's all, now just Sign Up to Slam-Book and be friends forever.
   <br>
