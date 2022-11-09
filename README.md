@@ -24,6 +24,7 @@
 <br>
 
 ## NPM DEPENDENCIEs (for API) 
+```
 {
   "name": "rest-api",
   "version": "1.0.0",
@@ -47,8 +48,10 @@
     "path": "^0.12.7"
   }
 }
+```
 
-## NPM DEPENDENCIEs (for CLIENT)
+## NPM DEPENDENCIES (for CLIENT)
+```
 {
   "name": "react-social",
   "version": "0.1.0",
@@ -93,7 +96,7 @@
   },
   "proxy": "http://localhost:8800/api"
 }
-
+```
 
 ## LOCAL ENVIRONMENT SETUP
 
@@ -111,14 +114,16 @@
 - Create the .env file for both API and Client App
     for API  
       put your Mongo Atlas URL as 
+         ```
            MONGO_URL= mongo atlas url here
+         ```
        - Add this to `.env` file
   - Please Note, the ATLAS_URI is not the database link of MongoDB Atlas, its just the variable name. The URL is for local use only.
     
     for Client
+      ```
        REACT_APP_PUBLIC_FOLDER = http://localhost:8800/images/
-```
-  
+      ```
 
 - That's all, now just Sign Up to Slam-Book and be friends forever.
   <br>
