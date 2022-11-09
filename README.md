@@ -113,7 +113,7 @@
 ```
 - Create the .env file for both API and Client App
    <br>
-    for API  
+     for API  
       put your Mongo Atlas URL as 
          ```
            MONGO_URL= mongo atlas url here
