@@ -112,6 +112,7 @@
     npm install
 ```
 - Create the .env file for both API and Client App
+   <br>
     for API  
       put your Mongo Atlas URL as 
          ```
